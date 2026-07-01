@@ -112,13 +112,13 @@ I'm a **Data Science Intern** passionate about building intelligent systems that
 ║                        PROFESSIONAL JOURNEY                              ║
 ╠══════════════════════════════════════════════════════════════════════════╣
 ║                                                                          ║
-║  🔬  Data Science Intern          Unified Mentor         2025 – Present  ║
+║  🔬  Data Science Intern          Unified Mentor         2026 – Present  ║
 ║      ▸ Working on real-world data science problems                       ║
 ║      ▸ ML model building · Data preprocessing · EDA                     ║
 ║                                                                          ║
 ╠══════════════════════════════════════════════════════════════════════════╣
 ║                                                                          ║
-║  🎓  Data Science Bootcamp        Codebasics                  2024–2025  ║
+║  🎓  Data Science Bootcamp        Codebasics                  2025-2026  ║
 ║      ▸ End-to-end Data Science curriculum                                ║
 ║      ▸ Python · ML · DL · SQL · EDA · Projects                          ║
 ║                                                                          ║
@@ -135,7 +135,7 @@ I'm a **Data Science Intern** passionate about building intelligent systems that
 
 | 🏆 | Certification | 🏛️ Issuer | 📅 |
 |:---:|:---|:---|:---:|
-| 🧠 | **Data Science Bootcamp** | Codebasics | 2024–2025 |
+| 🧠 | **Data Science Bootcamp** | Codebasics | 2025-2026 |
 
 </div>
 
